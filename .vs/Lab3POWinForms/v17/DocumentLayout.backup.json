@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\util\\reposmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\util\\reposmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B0CB48-ADC6-4A69-AA1B-D94F3181AAAC}|DAL\\DAL.csproj|c:\\users\\igor\\source\\repos\\lab5po\\dal\\repository\\dbrepospgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B0CB48-ADC6-4A69-AA1B-D94F3181AAAC}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\dbrepospgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B0CB48-ADC6-4A69-AA1B-D94F3181AAAC}|DAL\\DAL.csproj|c:\\users\\igor\\source\\repos\\lab5po\\dal\\pizzadeliverycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B0CB48-ADC6-4A69-AA1B-D94F3181AAAC}|DAL\\DAL.csproj|solutionrelative:dal\\pizzadeliverycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzaDeliveryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\DAL\\PizzaDeliveryContext.cs",
+              "RelativeDocumentMoniker": "DAL\\PizzaDeliveryContext.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\DAL\\PizzaDeliveryContext.cs",
+              "RelativeToolTip": "DAL\\PizzaDeliveryContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:36:22.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbReposPgs.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\DAL\\Repository\\DbReposPgs.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\DbReposPgs.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\DAL\\Repository\\DbReposPgs.cs",
+              "RelativeToolTip": "DAL\\Repository\\DbReposPgs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:32:57.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReposModule.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Util\\ReposModule.cs",
+              "RelativeDocumentMoniker": "Lab5WebApp\\Util\\ReposModule.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Util\\ReposModule.cs",
+              "RelativeToolTip": "Lab5WebApp\\Util\\ReposModule.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:29:37.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab5WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\appsettings.json",
+              "RelativeToolTip": "Lab5WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T15:12:58.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Program.cs*",
+              "RelativeToolTip": "Lab5WebApp\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:12:25.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
