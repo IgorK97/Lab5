@@ -26,7 +26,7 @@ namespace Lab5WebApp.Controllers
 
 
         //}
-        public IActionResult LinqReport()
+        public IActionResult Index()
         {
             return View(new LinqReportModel() { SelectedIngredientId = 7, IngredientList = ingredientService.GetIngredients(null) });
         }
@@ -35,9 +35,14 @@ namespace Lab5WebApp.Controllers
         {
             //model.ReportData = reportService.ReportPhonesOfMunufacturer(model.SelectedManufId);
             //model.ManufList = phoneService.GetManufacturers();
-            model.ReportData = reportService.ReportPizzas(model.SelectedIngredientId);
-            model.IngredientList = ingredientService.GetIngredients(null);
+            if (ModelState.IsValid)
+            {
+                model.ReportData = reportService.ReportPizzas(model.SelectedIngredientId);
+                model.IngredientList = ingredientService.GetIngredients(null);
+                return View(model);
+            }
             return View(model);
+        
         }
         public ActionResult SPReport()
         {
