@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\controllers\\linqreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\controllers\\linqreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\util\\reposmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\util\\reposmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\views\\linqreport\\linqreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\views\\linqreport\\linqreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89B0CB48-ADC6-4A69-AA1B-D94F3181AAAC}|DAL\\DAL.csproj|c:\\users\\igor\\source\\repos\\lab5po\\dal\\repository\\dbrepospgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89B0CB48-ADC6-4A69-AA1B-D94F3181AAAC}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\dbrepospgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89B0CB48-ADC6-4A69-AA1B-D94F3181AAAC}|DAL\\DAL.csproj|c:\\users\\igor\\source\\repos\\lab5po\\dal\\pizzadeliverycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89B0CB48-ADC6-4A69-AA1B-D94F3181AAAC}|DAL\\DAL.csproj|solutionrelative:dal\\pizzadeliverycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{914AEC3A-E9B0-41EB-BBE9-BC008C954B5C}|Interfaces\\Interfaces.csproj|c:\\users\\igor\\source\\repos\\lab5po\\interfaces\\dto\\reportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914AEC3A-E9B0-41EB-BBE9-BC008C954B5C}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\dto\\reportdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,79 +30,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PizzaDeliveryContext.cs",
-              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\DAL\\PizzaDeliveryContext.cs",
-              "RelativeDocumentMoniker": "DAL\\PizzaDeliveryContext.cs",
-              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\DAL\\PizzaDeliveryContext.cs",
-              "RelativeToolTip": "DAL\\PizzaDeliveryContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:36:22.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DbReposPgs.cs",
-              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\DAL\\Repository\\DbReposPgs.cs",
-              "RelativeDocumentMoniker": "DAL\\Repository\\DbReposPgs.cs",
-              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\DAL\\Repository\\DbReposPgs.cs",
-              "RelativeToolTip": "DAL\\Repository\\DbReposPgs.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:32:57.677Z",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab5WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Lab5WebApp\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T14:22:50.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ReposModule.cs",
-              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Util\\ReposModule.cs",
-              "RelativeDocumentMoniker": "Lab5WebApp\\Util\\ReposModule.cs",
-              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Util\\ReposModule.cs",
-              "RelativeToolTip": "Lab5WebApp\\Util\\ReposModule.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:29:37.871Z",
+              "Title": "LinqReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\LinqReport\\LinqReport.cshtml",
+              "RelativeDocumentMoniker": "Lab5WebApp\\Views\\LinqReport\\LinqReport.cshtml",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\LinqReport\\LinqReport.cshtml",
+              "RelativeToolTip": "Lab5WebApp\\Views\\LinqReport\\LinqReport.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T13:50:26.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "Lab5WebApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\appsettings.json",
-              "RelativeToolTip": "Lab5WebApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-04T15:12:58.829Z",
+              "Title": "LinqReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Controllers\\LinqReportController.cs",
+              "RelativeDocumentMoniker": "Lab5WebApp\\Controllers\\LinqReportController.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Controllers\\LinqReportController.cs*",
+              "RelativeToolTip": "Lab5WebApp\\Controllers\\LinqReportController.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:47:47.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "Lab5WebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Program.cs*",
-              "RelativeToolTip": "Lab5WebApp\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Lab5WebApp\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Lab5WebApp\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:12:25.146Z",
+              "WhenOpened": "2024-11-18T12:59:48.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportData.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Interfaces\\DTO\\ReportData.cs",
+              "RelativeDocumentMoniker": "Interfaces\\DTO\\ReportData.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Interfaces\\DTO\\ReportData.cs",
+              "RelativeToolTip": "Interfaces\\DTO\\ReportData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:55:20.59Z",
               "EditorCaption": ""
             }
           ]

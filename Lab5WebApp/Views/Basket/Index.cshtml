@@ -1,0 +1,54 @@
+﻿@using DTO
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<OrderLineDto>
+@{
+    ViewData["Title"] = "Корзина";
+}
+@* <p>
+    @Html.ActionLink("Отменить заказ", "CancelOrder")
+</p> *@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(Model => Model.position_price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model.weight)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model.quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(Model => Model.custom)
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>
+                @Html.DisplayFor(modelItem => item.Id)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.position_price)
+            </th>
+            <th>
+                @Html.DisplayFor(midelItem => item.weight)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.quantity)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.custom)
+            </th>
+            <th>
+                @Html.ActionLink("Редактировать", "Update", new { id = item.Id })
+            </th>
+            <th>
+                @Html.ActionLink("Удалить", "Cancel", new { id = item.Id })
+            </th>
+            
+        </tr>
+    }
+</table>

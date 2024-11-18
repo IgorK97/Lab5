@@ -3175,6 +3175,7 @@
     "net8.0": [
       "BLL >= 1.0.0",
       "DAL >= 1.0.0",
+      "DomainModel >= 1.0.0",
       "Interfaces >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.10",
@@ -3216,6 +3217,9 @@
             },
             "C:\\Users\\Igor\\source\\repos\\Lab5PO\\DAL\\DAL.csproj": {
               "projectPath": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\DAL\\DAL.csproj"
+            },
+            "C:\\Users\\Igor\\source\\repos\\Lab5PO\\DomainModel\\DomainModel.csproj": {
+              "projectPath": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\DomainModel\\DomainModel.csproj"
             },
             "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Interfaces\\Interfaces.csproj": {
               "projectPath": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Interfaces\\Interfaces.csproj"
@@ -3287,6 +3291,12 @@
     }
   },
   "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json."
+    },
     {
       "code": "NU1701",
       "level": "Warning",

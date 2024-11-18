@@ -27,9 +27,10 @@ namespace DTO
         public DateTime? ordertime { get; set; }
         public DateTime? deliverytime { get; set; }
         public int delstatusId { get; set; }
+        public string DeliveryStatus { get; set; }
         public string? comment { get; set; }
 
-        public List<int> order_linesIds { get; set; }
+        public List<OrderLineDto> order_lines { get; set; }
         public OrderDto(Order o)
         {
             Id = o.Id;
@@ -41,8 +42,37 @@ namespace DTO
             ordertime = o.Ordertime;
             deliverytime = o.Deliverytime;
             delstatusId = o.DelstatusId;
+            switch (delstatusId)
+            {
+                case 1:
+                    DeliveryStatus = "Не оформлен";
+                    break;
+                case 2:
+                    DeliveryStatus = "Отменен";
+                    break;
+                case 3:
+                    DeliveryStatus = "Формируется";
+                    break;
+                case 5:
+                    DeliveryStatus = "Передан курьеру";
+                    break;
+                case 6:
+                    DeliveryStatus = "Доставлен";
+                    break;
+                case 7:
+                    DeliveryStatus = "Не доставлен";
+                    break;
+                case 8:
+                    DeliveryStatus = "Передается в доставку";
+                    break;
+            }
             comment = o.Comment;
-            order_linesIds = o.OrderLines.Select(i => i.Id).ToList();
+            order_lines = new List<OrderLineDto>();
+            foreach (OrderLine ol in o.OrderLines)
+            {
+                OrderLineDto olDto = new OrderLineDto(ol);
+                order_lines.Add(olDto);
+            }
         }
     }
 }

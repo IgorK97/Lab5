@@ -219,3 +219,4 @@ C:\Users\Igor\source\repos\Lab5PO\Lab3POWinForms\obj\Debug\net8.0-windows\refint
 C:\Users\Igor\source\repos\Lab5PO\Lab3POWinForms\obj\Debug\net8.0-windows\Lab4POWinForms.pdb
 C:\Users\Igor\source\repos\Lab5PO\Lab3POWinForms\obj\Debug\net8.0-windows\Lab4POWinForms.genruntimeconfig.cache
 C:\Users\Igor\source\repos\Lab5PO\Lab3POWinForms\obj\Debug\net8.0-windows\ref\Lab4POWinForms.dll
+C:\Users\Igor\source\repos\Lab5PO\Lab3POWinForms\obj\Debug\net8.0-windows\Lab4POWinForms.sourcelink.json

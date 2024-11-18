@@ -1,5 +1,6 @@
 ﻿using DomainModel;
 using Interfaces.Repository;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,12 +20,13 @@ namespace DAL.Repository
 
         public List<OrderLine> GetList()
         {
-            return db.OrderLines.ToList();
+            return db.OrderLines.Include(o => o.Pizza).Include(o => o.Ingredients).ToList();
         }
 
         public OrderLine GetItem(int id)
         {
-            return db.OrderLines.Find(id);
+            return db.OrderLines.Include(o => o.Pizza).Include(o => o.Ingredients)
+                .FirstOrDefault(u => u.Id == id);
         }
 
         public void Create(OrderLine orderline)

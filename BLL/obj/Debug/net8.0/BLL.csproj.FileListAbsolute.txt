@@ -59,3 +59,4 @@ C:\Users\Igor\source\repos\Lab5PO\BLL\obj\Debug\net8.0\refint\BLL.dll
 C:\Users\Igor\source\repos\Lab5PO\BLL\obj\Debug\net8.0\BLL.pdb
 C:\Users\Igor\source\repos\Lab5PO\BLL\obj\Debug\net8.0\BLL.genruntimeconfig.cache
 C:\Users\Igor\source\repos\Lab5PO\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Igor\source\repos\Lab5PO\BLL\obj\Debug\net8.0\BLL.sourcelink.json

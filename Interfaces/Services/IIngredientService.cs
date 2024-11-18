@@ -11,8 +11,8 @@ namespace Interfaces.Services
     public interface IIngredientService
     {
 
-        BindingList<IngredientShortDto> GetIngredients(int? ps);
+        List<IngredientShortDto> GetIngredients(int? ps);
 
-        BindingList<IngredientShortDto> GetConcreteIngredients(int ps, int ol_id);
+        List<IngredientShortDto> GetConcreteIngredients(int ps, int ol_id);
     }
 }

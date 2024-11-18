@@ -25,7 +25,7 @@ namespace BLL.Services
             if (dbr.Save() > 0) return true;
             return false;
         }
-        public BindingList<IngredientShortDto> GetIngredients(int? ps = null)
+        public List<IngredientShortDto> GetIngredients(int? ps = null)
         {
             if (ps == null)
                 ps = (int)PizzaSizeEnum.Small;
@@ -39,11 +39,11 @@ namespace BLL.Services
                 i.Medium : i.Big,
                 active = false
             }).ToList();
-            var blres = new BindingList<IngredientShortDto>(res);
-            return blres;
+            //var blres = new BindingList<IngredientShortDto>(res);
+            return res;
         }
 
-        public BindingList<IngredientShortDto> GetConcreteIngredients(int ps, int ol_id)
+        public List<IngredientShortDto> GetConcreteIngredients(int ps, int ol_id)
         {
 
 
@@ -57,8 +57,8 @@ namespace BLL.Services
                     i.Medium : i.Big,
                 active = i.OrderLines.Any(ol => ol.Id == ol_id)
             }).ToList();
-            var blres = new BindingList<IngredientShortDto>(res);
-            return blres;
+            //var blres = new BindingList<IngredientShortDto>(res);
+            return res;
         }
     }
 }

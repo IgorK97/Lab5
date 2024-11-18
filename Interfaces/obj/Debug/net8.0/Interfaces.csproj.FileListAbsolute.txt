@@ -29,3 +29,4 @@ C:\Users\Igor\source\repos\Lab5PO\Interfaces\obj\Debug\net8.0\Interfaces.dll
 C:\Users\Igor\source\repos\Lab5PO\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
 C:\Users\Igor\source\repos\Lab5PO\Interfaces\obj\Debug\net8.0\Interfaces.pdb
 C:\Users\Igor\source\repos\Lab5PO\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
+C:\Users\Igor\source\repos\Lab5PO\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json

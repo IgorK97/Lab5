@@ -23,7 +23,8 @@ namespace DTO
         public string description { get; set; }
         public byte[]? pizzaimage { get; set; }
 
-        public List<int> listedingredientsIds { get; set; }
+        //public List<int> listedingredientsIds { get; set; }
+        public List<IngredientDto> listedingredients { get; set; }
 
         public PizzaDto(Pizza p)
         {
@@ -32,7 +33,12 @@ namespace DTO
             active = p.Active;
             description = p.Description;
             pizzaimage = p.Pizzaimage;
-            listedingredientsIds = p.Ingredients.Select(i => i.Id).ToList();
+            listedingredients = new List<IngredientDto>();
+            foreach (Ingredient ingr in p.Ingredients)
+            {
+                IngredientDto ingrDto = new IngredientDto(ingr);
+                listedingredients.Add(ingrDto);
+            }
         }
     }
 }
