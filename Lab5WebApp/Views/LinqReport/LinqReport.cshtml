@@ -18,7 +18,7 @@
     }
 </div> *@
 <div class="row">
-    <h1>Заказы за месяц</h1>
+    <h1>Ассортимент</h1>
     @using (Html.BeginForm("LinqReport", "LinqReport", FormMethod.Post))
     {
         <label>Ингредиент:</label>
@@ -37,6 +37,7 @@
 <div class="row">
     <table class="table">
         <tr>
+            
             <th>
                 Название пиццы
             </th>
@@ -50,6 +51,7 @@
             foreach (var item in Model.ReportData)
             {
                 <tr>
+                    
                     <td>
                         @Html.DisplayFor(modelItem => item.Name)
                     </td>

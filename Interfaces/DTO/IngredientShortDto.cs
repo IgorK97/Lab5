@@ -22,14 +22,17 @@ namespace DTO
 
 
         public bool active { get; set; }
+        public byte[]? ingrimage { get; set; }
 
-        public IngredientShortDto(int id, string C_name, int price, int weight)
+
+        public IngredientShortDto(int id, string C_name, int price, int weight, byte[]? ing)
         {
             Id = id;
             this.C_name = C_name;
             this.price = price;
             this.weight = weight;
             active = false;
+            ingrimage = ing;
         }
     }
 }

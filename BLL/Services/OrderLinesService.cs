@@ -79,6 +79,9 @@ namespace BLL.Services
                 Quantity = p.quantity,
                 Ingredients = addedingredients
             });
+            Order odto = dbr.Orders.GetList().Where(o => o.Id == p.ordersId).FirstOrDefault();
+            odto.FinalPrice += p.position_price;
+            odto.Weight += p.weight;
             Save();
         }
 

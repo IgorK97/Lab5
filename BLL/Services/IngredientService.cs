@@ -37,7 +37,8 @@ namespace BLL.Services
                 i.PricePerGram * i.Medium : i.PricePerGram * i.Big,
                 weight = ps == (int)PizzaSizeEnum.Small ? i.Small : ps == (int)PizzaSizeEnum.Medium ?
                 i.Medium : i.Big,
-                active = false
+                active = false,
+                ingrimage = i.Ingrimage
             }).ToList();
             //var blres = new BindingList<IngredientShortDto>(res);
             return res;
@@ -55,7 +56,9 @@ namespace BLL.Services
                     i.PricePerGram * i.Medium : i.PricePerGram * i.Big,
                 weight = ps == (int)PizzaSizeEnum.Small ? i.Small : ps == (int)PizzaSizeEnum.Medium ?
                     i.Medium : i.Big,
-                active = i.OrderLines.Any(ol => ol.Id == ol_id)
+                active = i.OrderLines.Any(ol => ol.Id == ol_id),
+                ingrimage = i.Ingrimage
+
             }).ToList();
             //var blres = new BindingList<IngredientShortDto>(res);
             return res;

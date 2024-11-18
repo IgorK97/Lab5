@@ -45,6 +45,11 @@ namespace BLL.Services
             return oid;
         }
 
+        public OrderDto RetOrder(int cur)
+        {
+            return dbr.Orders.GetList().Where(o => o.Id == cur).Select(i => new OrderDto(i)).FirstOrDefault();
+        }
+
         public enum DeliveryStatus
         {
             NotPlaced = 1,

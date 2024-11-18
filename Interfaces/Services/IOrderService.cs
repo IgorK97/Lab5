@@ -12,7 +12,7 @@ namespace Interfaces.Services
     {
         int GetCurrentOrder(int ClientId);
 
-
+        OrderDto RetOrder(int cur);
 
         bool MakeOrder(int ClientId);
 

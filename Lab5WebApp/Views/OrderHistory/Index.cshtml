@@ -13,25 +13,36 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(Model => Model.Id)
+            @* @Html.DisplayNameFor(Model => Model.Id) *@
+            Номер заказа
         </th>
         <th>
-            @Html.DisplayNameFor(Model => Model.final_price)
+            @* @Html.DisplayNameFor(Model => Model.final_price) *@
+            Цена
         </th>
         <th>
-            @Html.DisplayNameFor(Model => Model.weight)
+            @* @Html.DisplayNameFor(Model => Model.weight) *@
+            Вес
         </th>
         <th>
-            @Html.DisplayNameFor(Model => Model.ordertime)
+            @* @Html.DisplayNameFor(Model => Model.ordertime) *@
+            Дата заказа
         </th>
         <th>
-            @Html.DisplayNameFor(Model => Model.address_del)
+            @* @Html.DisplayNameFor(Model => Model.address_del) *@
+            Адрес доставки
         </th>
         <th>
-            @Html.DisplayNameFor(Model => Model.delstatusId)
+            @* @Html.DisplayNameFor(Model => Model.delstatusId) *@
+            Статус заказа
         </th>
         <th>
-            @Html.DisplayNameFor(Model => Model.comment)
+            @* @Html.DisplayNameFor(Model => Model.delstatusId) *@
+            Дата доставки
+        </th>
+        <th>
+            @* @Html.DisplayNameFor(Model => Model.comment) *@
+            Комментарий
         </th>
        
     </tr>
@@ -56,6 +67,11 @@
             <th>
                 @* @Html.DropDownListFor(modelItem => item.delstatusId, new SelectList(item.delstatusId, "Id", "Name"), new { @Style = "width:100%;" }) *@
                 @Html.DisplayFor(modelItem => item.DeliveryStatus)
+
+            </th>
+            <th>
+                @* @Html.DropDownListFor(modelItem => item.delstatusId, new SelectList(item.delstatusId, "Id", "Name"), new { @Style = "width:100%;" }) *@
+                @Html.DisplayFor(modelItem => item.deliverytime)
 
             </th>
             @* NotPlaced = 1,

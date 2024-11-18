@@ -17,7 +17,7 @@ namespace Lab5WebApp.Models
         {
 
         }
-        public OrderLineModel(List<PizzaSize> pizzaSizes, List<IngredientModel> ingredients,
+        public OrderLineModel(List<PizzaSizesDto> pizzaSizes, List<IngredientShortDto> ingredients,
             List<PizzaDto> pizzas)
         {
             pizza_sizes = pizzaSizes;
@@ -49,7 +49,7 @@ namespace Lab5WebApp.Models
         public int PizzaSize_Id { get; set; }
         [DisplayName("Размер")]
         public string PizzaSizeName { get; set; }
-        public List<PizzaSize> pizza_sizes { get; set; }
+        public List<PizzaSizesDto> pizza_sizes { get; set; }
         
         [DisplayName("Вес, г")]
         public decimal weight { get; set; }
@@ -61,7 +61,7 @@ namespace Lab5WebApp.Models
         public List<PizzaDto> pizzas { get; set; }
 
         public List<int> addedingredientsIds { get; set; }
-        public List<IngredientModel> addedingredients { get; set; }
+        public List<IngredientShortDto> addedingredients { get; set; }
         
     }
 }
