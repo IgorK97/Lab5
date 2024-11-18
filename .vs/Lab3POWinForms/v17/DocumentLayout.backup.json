@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D82862C-41E7-43AB-8C91-5227B6C3DFA8}|BLL\\BLL.csproj|c:\\users\\igor\\source\\repos\\lab5po\\bll\\services\\orderlinesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D82862C-41E7-43AB-8C91-5227B6C3DFA8}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderlinesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\controllers\\linqreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\controllers\\linqreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\views\\linqreport\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\views\\linqreport\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\controllers\\linqreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\controllers\\linqreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{914AEC3A-E9B0-41EB-BBE9-BC008C954B5C}|Interfaces\\Interfaces.csproj|c:\\users\\igor\\source\\repos\\lab5po\\interfaces\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2D82862C-41E7-43AB-8C91-5227B6C3DFA8}|BLL\\BLL.csproj|c:\\users\\igor\\source\\repos\\lab5po\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D82862C-41E7-43AB-8C91-5227B6C3DFA8}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|c:\\users\\igor\\source\\repos\\lab5po\\lab5webapp\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E77993-5591-434E-A61F-A6DEF251F56A}|Lab5WebApp\\Lab5WebApp.csproj|solutionrelative:lab5webapp\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,47 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderLinesService.cs",
-              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\BLL\\Services\\OrderLinesService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\OrderLinesService.cs",
-              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\BLL\\Services\\OrderLinesService.cs*",
-              "RelativeToolTip": "BLL\\Services\\OrderLinesService.cs*",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:37:48.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Interfaces\\DTO\\OrderDto.cs",
-              "RelativeDocumentMoniker": "Interfaces\\DTO\\OrderDto.cs",
-              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Interfaces\\DTO\\OrderDto.cs",
-              "RelativeToolTip": "Interfaces\\DTO\\OrderDto.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:35:56.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LinqReportController.cs",
-              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Controllers\\LinqReportController.cs",
-              "RelativeDocumentMoniker": "Lab5WebApp\\Controllers\\LinqReportController.cs",
-              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Controllers\\LinqReportController.cs",
-              "RelativeToolTip": "Lab5WebApp\\Controllers\\LinqReportController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAwwDcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:34:18.023Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -85,7 +54,83 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab5WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Lab5WebApp\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAC4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T19:50:55.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\LinqReport\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab5WebApp\\Views\\LinqReport\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\LinqReport\\Create.cshtml",
+              "RelativeToolTip": "Lab5WebApp\\Views\\LinqReport\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T19:48:53.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab5WebApp\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "Lab5WebApp\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T19:47:14.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderLinesService.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\BLL\\Services\\OrderLinesService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderLinesService.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\BLL\\Services\\OrderLinesService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderLinesService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAswIMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:37:48.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Interfaces\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Interfaces\\DTO\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Interfaces\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "Interfaces\\DTO\\OrderDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:35:56.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinqReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Controllers\\LinqReportController.cs",
+              "RelativeDocumentMoniker": "Lab5WebApp\\Controllers\\LinqReportController.cs",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Controllers\\LinqReportController.cs",
+              "RelativeToolTip": "Lab5WebApp\\Controllers\\LinqReportController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:34:18.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\BLL\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\OrderService.cs",
@@ -93,33 +138,19 @@
               "RelativeToolTip": "BLL\\Services\\OrderService.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAmwF0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:25:19.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:25:19.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "BasketController.cs",
               "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Controllers\\BasketController.cs",
               "RelativeDocumentMoniker": "Lab5WebApp\\Controllers\\BasketController.cs",
               "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Controllers\\BasketController.cs",
               "RelativeToolTip": "Lab5WebApp\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAowCsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowCsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T18:59:24.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\Basket\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lab5WebApp\\Views\\Basket\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\Basket\\Index.cshtml*",
-              "RelativeToolTip": "Lab5WebApp\\Views\\Basket\\Index.cshtml*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T18:52:08.155Z",
               "EditorCaption": ""
             }
           ]

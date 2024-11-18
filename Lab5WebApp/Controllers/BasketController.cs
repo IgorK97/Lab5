@@ -41,6 +41,8 @@ namespace Lab5WebApp.Controllers
         [HttpPost]
         public ActionResult MakeOrder(OrderDto o)
         {
+            if (o.address_del == null)
+                o.address_del = "";
             orderService.SubmitOrder((int)o.Id, o.address_del);
             currentOrderId = orderService.GetCurrentOrder(3);
             OrderDto odto = orderService.RetOrder(currentOrderId);

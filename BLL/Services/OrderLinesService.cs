@@ -126,8 +126,13 @@ namespace BLL.Services
             //OrderLine p = dbr.OrderLines.GetItem(id);
             //if (p != null)
             //{
-                dbr.OrderLines.Delete(id);
-                Save();
+            OrderLine ol = dbr.OrderLines.GetItem(id);
+            Order odto = dbr.Orders.GetList().Where(o => o.Id == ol.OrdersId).FirstOrDefault();
+            odto.FinalPrice -= ol.PositionPrice;
+            odto.Weight -= ol.Weight;
+            dbr.OrderLines.Delete(id);
+
+            Save();
             //}
         }
 

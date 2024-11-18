@@ -35,7 +35,7 @@
             </select> *@
             @Html.HiddenFor(m =>m.pizzaId)
             <label for="PizzaName"></label>
-            @Html.TextBoxFor(m => m.Name, htmlAttributes: new { id = "pizzaName",@readonly = "true"})
+            @Html.TextBoxFor(m => m.Name, htmlAttributes: new { @class = "form-control", id = "pizzaName",@readonly = "true"})
     </div>
     @* <div class="form-group">
         <label for="PizzaSize_Id">Выберите размер пиццы</label>
@@ -47,11 +47,11 @@
     </div> *@
     <div>
         <label for="position_price">Цена, руб</label>
-        @Html.TextBoxFor(m => m.position_price, htmlAttributes: new { id = "pizzaPrice", @readonly="true"} )
+        @Html.TextBoxFor(m => m.position_price, htmlAttributes: new {@class="form-control", id = "pizzaPrice", @readonly="true"} )
     </div>
     <div>
         <label for="weight"> Вес, г</label>
-        @Html.TextBoxFor(m => m.weight, htmlAttributes: new {id = "pizzaWeight", @readonly = "true"})
+        @Html.TextBoxFor(m => m.weight, htmlAttributes: new {@class="form-control", id = "pizzaWeight", @readonly = "true"})
     </div>
     @* <table>
         <thead>

@@ -10,15 +10,15 @@
 @using (Html.BeginForm("MakeOrder", "Basket", FormMethod.Post))
 {
     @Html.HiddenFor(m => m.Id)
-    <label>Цена</label>
-    @Html.TextBoxFor(m => m.final_price)
+    <label class="form-label">Цена</label>
+    @Html.TextBoxFor(m => m.final_price, new {@class = "form-control"})
     <br/>
-    <label>Вес </label>
-    @Html.TextBoxFor(m => m.weight)
+    <label class="form-label">Вес </label>
+    @Html.TextBoxFor(m => m.weight, new {@class = "form-control"})
     <br/>
     <label>Укажите адрес</label>
 <br/>
-@Html.TextBoxFor(m => m.address_del)
+@Html.TextBoxFor(m => m.address_del, new {@class = "form-control"})
 <br/>
 <div class="form-group">
     <div class="col-md-offset-2 col-md-10">
