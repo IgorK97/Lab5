@@ -58,9 +58,9 @@
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Lab5WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Lab5WebApp\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAAC4AAABHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Igor\\source\\repos\\Lab5PO\\Lab5WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab5WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAC4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-18T19:50:55.447Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Lab5WebApp\\Views\\LinqReport\\Create.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T19:48:53.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:48:53.142Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Lab5WebApp\\Views\\Basket\\Index.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T19:47:14.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:47:14.129Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "BLL\\Services\\OrderLinesService.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAAswIMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:37:48.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:37:48.907Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "Lab5WebApp\\Controllers\\BasketController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAowCsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T18:59:24.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T18:59:24.328Z"
             }
           ]
         }
